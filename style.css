@@ -1,0 +1,34 @@
+html {
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	margin:0;
+	padding:0;
+	width:100%;
+	height:100%;
+}
+
+body {
+	background: url("C:/Users/kranthi/Desktop/Responsive/images/99.jpg") no-repeat center center fixed;
+	width:100%;
+	height:100%;
+}
+
+table {
+    font-family: Calibri (Body);
+		border-collapse: collapse;
+    width: 65%;
+}
+
+td, th {
+    text-align: left;
+    padding: 2px;
+    align-content: center;
+		color:black;
+
+}
+
+tr:nth-child(even) {
+	  list-style:disc inside;
+}
