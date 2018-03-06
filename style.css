@@ -1,0 +1,133 @@
+html {
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	margin:0;
+	padding:0;
+	width:100%;
+	height:100%;
+}
+
+body {
+	background: url("C:/Users/kranthi/Desktop/Responsive/images/99.jpg") no-repeat center center fixed;
+	width:100%;
+	height:100%;
+}
+
+.email{
+	color:white;
+	font-family: Buxton Sketch;
+	font-size:20px;
+	text-align:center;
+}
+
+.mobile{
+	color:white;
+	font-family: Buxton Sketch;
+	font-size:20px;
+	text-align:center;
+}
+
+.center1{
+	width: 80%;
+	text-align:center;
+	padding-left:20%;
+	padding-top:8%;
+}
+
+.center2{
+	width: 70%;
+	text-align:center;
+	padding-left:30%;
+}
+
+.center3{
+	width:75%;
+	text-align:center;
+	padding-left:22%;
+	padding-right:15%;
+	padding-top: 5%;
+}
+
+.first{
+	border-radius: 15px;
+	padding-top:10px;
+	padding-bottom:10px;
+	background: rgba(255,255,255, 0.6);
+	align:center;
+}
+
+.first h1{
+	font-size:35px;
+	font-family:Bradley Hand ITC;
+	color:black;"
+}
+
+.name{
+	font-size:25px;
+	font-family:Bradley Hand ITC;
+	color:black;
+}
+
+.desc{
+	font-size:25px;
+	font-family:Bradley Hand ITC;
+	color:black;
+}
+
+.second{
+	border-radius: 15px;
+	background: rgba(255,255,255, 0.6);
+	height: 40%;
+}
+
+.item1{
+	font-size:35px;
+	font-family:Bradley Hand ITC;
+	color:black;
+	line-height: 35px;
+}
+
+.item2{
+	font-size:25px;
+	font-family:Bradley Hand ITC;
+	color:black;
+	line-height: 25px;
+}
+
+.item3{
+	font-size:25px;
+	font-family:Bradley Hand ITC;
+	color:black;
+	line-height: 25px;
+}
+
+.third{
+	border-radius: 15px;
+	background: rgba(255,255,255,0.6);
+	position:absolute;
+	height:auto;
+}
+
+.galleryItem1,.galleryItem2,.galleryItem3{
+	float:left;
+	margin-top:30px;
+	margin-left:5px;
+}
+
+.galleryItem1 h6,.galleryItem2 h6,.galleryItem3 h6{
+	color:black;"
+}
+
+.image1{
+	border: 3px solid blue;width:35%;height:35%;border-radius: 15px;
+}
+
+.image2{
+	border: 3px solid blue;width:41%;height:41%;border-radius: 15px;
+}
+
+.image3{
+	border: 3px solid blue;width:35%;height:35%;border-radius: 15px;
+}
